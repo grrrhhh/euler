@@ -5,7 +5,7 @@ x = 1000
 for a in range(1, x):
     for b in range( a, x):
         for c in range(b, x):
-            if a + b + c == 1000 and:a * a + b * b == c * c:
+            if a + b + c == 1000 and a * a + b * b == c * c:
                 print a, b, c
                 print a * b * c
 
